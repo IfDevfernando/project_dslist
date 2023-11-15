@@ -6,7 +6,7 @@ import jakarta.persistence.EmbeddedId;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;
 @Entity
-@Table(name="tb_belogoing")
+@Table(name="tb_belonging")
 public class Belongoing {
 	
 	@EmbeddedId
